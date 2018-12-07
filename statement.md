@@ -2,7 +2,7 @@
 
 ![Coders School](http://coders.school/wp-content/uploads/2018/10/LOGO_bez_tla.png)
 
-Poniżej jest kod napisany w starym C++03. Reprezentuje on prostą hierarchię figur geometrycznych. Klasa bazowa `Shape` definiuje interfejs z 3 publicznymi metodami: `getArea()`, `getPerimeter()` i `print()`. Po `Shape` dziedziczy klasa `Rectangle` reprezentująca prostokąt, a po niej dziedziczy klasa `Square` reprezentująca kwadrat. Klasy te odpowienio implementują wspomniane metody. W funkcji `main()` jest użycie figur, któe są przechowywane w kolekcji. Twoim zadaniem jest unowocześnienie tego kodu, korzystając z możliwości jakie dane C++11 i C++14.
+Poniżej jest kod napisany w starym C++03. Reprezentuje on prostą hierarchię figur geometrycznych. Klasa bazowa `Shape` definiuje interfejs z 3 publicznymi metodami: `getArea()`, `getPerimeter()` i `print()`. Po `Shape` dziedziczy klasa `Rectangle` reprezentująca prostokąt, a po niej dziedziczy klasa `Square` reprezentująca kwadrat. Klasy te odpowienio implementują wspomniane metody. W funkcji `main()` jest użycie figur, któe są przechowywane w kolekcji. Twoim zadaniem jest unowocześnienie tego kodu, korzystając z możliwości jakie daje C++11 i C++14.
 
 Zadania:
 1. `nullptr`:
