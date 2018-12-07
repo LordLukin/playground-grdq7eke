@@ -1,4 +1,4 @@
-# Modern C++ Meetup - Welcome!
+# Meetup Nowoczesny C++ - Welcome!
 
 ![Coders School](http://coders.school/wp-content/uploads/2018/10/LOGO_bez_tla.png)
 
