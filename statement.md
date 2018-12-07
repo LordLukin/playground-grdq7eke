@@ -141,5 +141,5 @@ int main() {
 1. Sprawdź swój poziom znajomości C++ wykonując [10-minutowy test](http://coders.school/sprawdz-sie/)
 1. Zapoznaj się z naszą ofertą [kursu C++](http://coders.school/kurs-cpp/)
 1. Zgłoś się na [darmowe konsultacje z C++](http://coders.school/post/darmowe-konsultacje-z-cpp/)
-1. W razie jakichkolwiek pytań [napisz mi maila](<lukasz@coders.school>)
+1. W razie jakichkolwiek pytań [napisz mi maila - lukasz(at)coders.school]
 
