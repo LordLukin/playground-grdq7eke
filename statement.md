@@ -23,7 +23,7 @@ Zadania:
     
 Zadania dodatkowe:
 1. uniform initialization:
-    Użyj jednolitej inicjalizacji do zainicjalizowania `collection`.
+    Użyj jednolitej inicjalizacji do zainicjalizowania kolekcji `shapes`.
 1. smart pointers:
     Zamień zwykłe wskażniki na `shared_ptr`
 1. lambda functions:
