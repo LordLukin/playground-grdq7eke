@@ -138,5 +138,9 @@ int main() {
 1. Zapisz się na [newsletter](http://coders.school/?elementor_library=formularz-mailingowy), aby pobrać dzisiejszą prezentację oraz otrzymywać informacje o przyszłych wydarzeniach i kursach (możesz się wypisać w dowolnej chwili)
 1. Dołącz do [Meetupa Kurs programowania C++](https://www.meetup.com/pl-PL/Kurs-programowania-C/)
 1. Odwiedź stronę [Coders School - http://coders.school](http://coders.school)
+1. Sprawdź swój poziom znajomości C++ wykonując [10-minutowy test](http://coders.school/sprawdz-sie/)
 1. Zapoznaj się z naszą ofertą [kursu C++](http://coders.school/kurs-cpp/)
+1. Zgłoś się na [darmowe konsultacje z C++](http://coders.school/post/darmowe-konsultacje-z-cpp/)
+1. W razie jakichkolwiek pytań [napisz mi maila](lukasz@coders.school)
+1. Zaproponuj [tematykę kolejnego Meetupu](lukasz@coders.school)
 
