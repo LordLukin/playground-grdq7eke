@@ -7,27 +7,26 @@ Zadania:
     Zamień wszystkie NULLe na nullptr
 1. using alias:
     Zamień typedef na alias using
-1. automatic type deduction
+1. automatic type deduction:
     Użyj auto, tam gdzie można go użyć
-1. range based for loop
+1. range based for loop:
     Użyj pętli for po kolekcji tam, gdzie to możliwe
-1. default
+1. default:
     Oznacz konstruktory kopiujące jako default.
-1. delete
+1. delete:
     Usuń metodę getY() z klasy Square.
     Usuń domyślne konstruktory (te bez parametrów).
-1. final
-    Oznacz klasę Square jako final
-    Oznacz metodę getX() w klasie Rectangle jako final
-1. override
+1. final:
+    Oznacz klasę Square jako final oraz oznacz metodę getX() w klasie Rectangle jako final
+1. override:
     Oznacz wszystkie wirtualne metody jako override. Czy zauważasz jakiś problem?
     
 Zadania dodatkowe:
-1. uniform initialization
+1. uniform initialization:
     Użyj jednolitej inicjalizacji do zainicjalizowania collection.
-1. smart pointers
+1. smart pointers:
     Zamień zwykłe wskażniki na shared_ptr
-1. funkcje lambda
+1. lambda functions:
     Zamień funkcję sortByArea na funkcję lambda
 
 ```C++ runnable
