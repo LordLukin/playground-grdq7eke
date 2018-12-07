@@ -1,33 +1,33 @@
 # Modern C++ Meetup - Welcome!
 
-Poniżej jest kod napisany w starym C++03. Reprezentuje on prostą hierarchię figur geometrycznych. Klasa bazowa Shape definiuje interfejs z 3 publicznymi metodami: getArea(), getPerimeter() i print(). Po Shape dziedziczy klasa Rectangle reprezentująca prostokąt, a po niej dziedziczy klasa Square reprezentująca kwadrat. Klasy te odpowienio implementują wspomniane metody. W funkcji main() jest użycie figur, któe są przechowywane w kolekcji. Twoim zadaniem jest unowocześnienie tego kodu, korzystając z możliwości jakie dane C++11 i C++14.
+Poniżej jest kod napisany w starym C++03. Reprezentuje on prostą hierarchię figur geometrycznych. Klasa bazowa `Shape` definiuje interfejs z 3 publicznymi metodami: `getArea()`, `getPerimeter()` i `print()`. Po `Shape` dziedziczy klasa `Rectangle` reprezentująca prostokąt, a po niej dziedziczy klasa `Square` reprezentująca kwadrat. Klasy te odpowienio implementują wspomniane metody. W funkcji `main()` jest użycie figur, któe są przechowywane w kolekcji. Twoim zadaniem jest unowocześnienie tego kodu, korzystając z możliwości jakie dane C++11 i C++14.
 
 Zadania:
-1. nullptr:
-    Zamień wszystkie NULLe na nullptr
-1. using alias:
+1. `nullptr`:
+    Zamień wszystkie NULLe na `nullptr`
+1. `using` alias:
     Zamień typedef na alias using
 1. automatic type deduction:
-    Użyj auto, tam gdzie można go użyć
+    Użyj `auto`, tam gdzie można go użyć
 1. range based for loop:
     Użyj pętli for po kolekcji tam, gdzie to możliwe
-1. default:
-    Oznacz konstruktory kopiujące jako default.
-1. delete:
-    Usuń metodę getY() z klasy Square.
+1. `default`:
+    Oznacz konstruktory kopiujące jako `default`.
+1. `delete`:
+    Usuń metodę `getY()` z klasy `Square`.
     Usuń domyślne konstruktory (te bez parametrów).
-1. final:
-    Oznacz klasę Square jako final oraz oznacz metodę getX() w klasie Rectangle jako final
-1. override:
-    Oznacz wszystkie wirtualne metody jako override. Czy zauważasz jakiś problem?
+1. `final`:
+    Oznacz klasę `Square` jako `final` oraz oznacz metodę `getX()` w klasie `Rectangle` jako `final`
+1. `override`:
+    Oznacz wszystkie wirtualne metody jako `override`. Czy zauważasz jakiś problem?
     
 Zadania dodatkowe:
 1. uniform initialization:
-    Użyj jednolitej inicjalizacji do zainicjalizowania collection.
+    Użyj jednolitej inicjalizacji do zainicjalizowania `collection`.
 1. smart pointers:
-    Zamień zwykłe wskażniki na shared_ptr
+    Zamień zwykłe wskażniki na `shared_ptr`
 1. lambda functions:
-    Zamień funkcję sortByArea na funkcję lambda
+    Zamień funkcję `sortByArea()` na funkcję lambda
 
 ```C++ runnable
 #include <iostream>
