@@ -8,10 +8,10 @@ Jeśli ściągniesz kod lokalnie, to dodatkowo możesz sprawdzać postęp za pom
 
 Potrzebne programy: make
 
-Użycie:
+### Użycie:
 > make
 
-Zadania:
+## Zadania:
 1. `nullptr`:
     Zamień wszystkie NULLe na `nullptr`
 1. `using` alias:
@@ -30,7 +30,7 @@ Zadania:
 1. `override`:
     Oznacz wszystkie wirtualne metody jako `override`. Czy zauważasz jakiś problem?
     
-Zadania dodatkowe:
+## Zadania dodatkowe:
 1. uniform initialization:
     Użyj jednolitej inicjalizacji do zainicjalizowania kolekcji `shapes`.
 1. smart pointers:
@@ -141,7 +141,7 @@ int main() {
 }
 ```
 
-# Co dalej?
+## Co dalej?
 
 1. Porównaj swoje rozwiązania z naszymi na [GitHubie](https://github.com/coders-school/meetup_modern_cpp/tree/solutions)
 1. Polub [Coders School na Facebooku](https://www.facebook.com/szkola.coders.school)
