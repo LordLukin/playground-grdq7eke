@@ -7,6 +7,7 @@ Poniżej jest kod napisany w starym C++03. Reprezentuje on prostą hierarchię f
 Jeśli ściągniesz kod lokalnie, to dodatkowo możesz sprawdzać postęp za pomocą dodanych skryptów sprawdzających. [Repozytorium do ściągnięcia na GitHubie](https://github.com/coders-school/meetup_modern_cpp)
 
 Potrzebne programy: make
+
 Użycie:
 > make
 
